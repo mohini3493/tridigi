@@ -1,20 +1,20 @@
 {
   "/favicon.ico/route": "/favicon.ico",
   "/_not-found/page": "/_not-found",
-  "/(innerpage)/about/page": "/about",
+  "/(innerpage)/blog/blog-details/page": "/blog/blog-details",
   "/(home1)/page": "/",
+  "/(innerpage)/blog-sidebar/page": "/blog-sidebar",
   "/(innerpage)/contact/page": "/contact",
   "/(innerpage)/blog/page": "/blog",
-  "/(innerpage)/blog-sidebar/page": "/blog-sidebar",
   "/(innerpage)/faq/page": "/faq",
-  "/(innerpage)/blog/blog-details/page": "/blog/blog-details",
-  "/(innerpage)/project/project-details/page": "/project/project-details",
   "/(innerpage)/pricing/page": "/pricing",
-  "/(innerpage)/service/service-details/page": "/service/service-details",
+  "/(innerpage)/project/project-details/page": "/project/project-details",
   "/(innerpage)/project/page": "/project",
-  "/(innerpage)/service/page": "/service",
-  "/(innerpage)/team/team-details/page": "/team/team-details",
+  "/(innerpage)/service/service-details/page": "/service/service-details",
   "/(innerpage)/team/page": "/team",
+  "/(innerpage)/about/page": "/about",
+  "/(innerpage)/team/team-details/page": "/team/team-details",
+  "/home3/page": "/home3",
   "/home2/page": "/home2",
-  "/home3/page": "/home3"
+  "/(innerpage)/service/page": "/service"
 }

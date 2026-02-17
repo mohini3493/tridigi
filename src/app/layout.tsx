@@ -14,13 +14,13 @@ const public_sans = Public_Sans({
 export const metadata = {
   title: {
     absolute: '',
-    default: 'Digitom - Digital Agency React NextJS Template',
-    template: '%s | Digitom - Digital Agency React NextJS Template',
+    default: 'Trivia Digital Agency Pvt Ltd. ',
+    template: '%s | Trivia Digital Agency Pvt Ltd. ',
   },
-  description: 'Digitom - Digital Agency React NextJS Template',
+  description: 'Trivia Digital Agency Pvt Ltd. ',
   openGraph: {
-    title: 'Digitom - Digital Agency React NextJS Template',
-    description: 'Digitom - Digital Agency React NextJS Template',
+    title: 'Trivia Digital Agency Pvt Ltd. ',
+    description: 'Trivia Digital Agency Pvt Ltd. ',
   },
 };
 
@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <meta name="author" content="Themeservices" />
+        <meta name="author" content="Trivia Digital Agency Pvt Ltd" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
       <body className={`${public_sans.variable}`}>
