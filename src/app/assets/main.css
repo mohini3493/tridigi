@@ -290,6 +290,106 @@ textarea {
     transform: rotate(360deg);
   }
 }
+
+/* ============================= */
+/* STABLE MEGA MENU FIX         */
+/* ============================= */
+
+/* Mega Menu */
+.cs-mega_parent {
+  position: static !important;
+}
+
+.cs-mega_parent .cs-mega_menu {
+  position: absolute;
+  left: 0;
+  top: 100%;
+  width: 100%;
+  background: #fff;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  z-index: 999;
+  border-top: 2px solid #7444fd;
+  border-radius: 0 0 5px 5px;
+  padding: 20px 0;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  -webkit-box-shadow: 0 1px 2px #0200b51a;
+  box-shadow: 0 1px 2px #0200b51a;
+}
+
+.menu-item-has-children:hover .cs-mega_menu {
+  opacity: 1;
+  visibility: visible;
+}
+
+.cs-mega_wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+}
+
+.cs-mega_col h4 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+}
+.cs-mega_col h4 img {
+  margin-right: 10px;
+}
+.cs-mega_col ul {
+  opacity: 1 !important;
+  visibility: visible !important;
+  position: relative !important;
+  border: 0 !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
+
+.cs-mega_col ul li {
+  margin-bottom: 10px;
+}
+
+.cs-mega_col ul li a {
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+.cs-mega_highlight {
+  background: #f8f8f8;
+  padding: 30px;
+  border-radius: 8px;
+}
+
+/* Mobile */
+@media (max-width: 991px) {
+  .cs_nav .cs_nav_list span.cs-munu_dropdown_toggle.active + div.cs-mega_menu {
+    position: relative;
+    background-color: #181818;
+    border: 0;
+    padding: 0;
+  }
+  .cs_nav
+    .cs_nav_list
+    span.cs-munu_dropdown_toggle.active
+    + div.cs-mega_menu
+    h4 {
+    color: var(--gray-color-2);
+  }
+  .cs_nav
+    .cs_nav_list
+    span.cs-munu_dropdown_toggle.active
+    + div.cs-mega_menu
+    ul {
+    display: block !important;
+  }
+  .cs-mega_wrapper {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+}
 /*--------------------------------------------------------------
   05. Spacing
 ----------------------------------------------------------------*/
