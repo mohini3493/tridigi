@@ -8,6 +8,25 @@ export default function Header1({ variant }: any) {
   const [isSticky, setIsSticky] = useState<string>("");
   const [prevScrollPos, setPrevScrollPos] = useState<number>(0);
 
+  // Disable mega menu hover while actively scrolling.
+  // Kept in its own effect with [] deps so the timer is never cancelled
+  // by the sticky-header effect re-running on every scroll.
+  useEffect(() => {
+    let timer: ReturnType<typeof setTimeout> | null = null;
+    const onScroll = () => {
+      document.documentElement.classList.add("cs-scrolling");
+      if (timer) clearTimeout(timer);
+      timer = setTimeout(() => {
+        document.documentElement.classList.remove("cs-scrolling");
+      }, 300);
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      if (timer) clearTimeout(timer);
+    };
+  }, []);
+
   useEffect(() => {
     const handleScroll = () => {
       const currentScrollPos = window.scrollY;

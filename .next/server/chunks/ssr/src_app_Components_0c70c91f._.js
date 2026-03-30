@@ -129,14 +129,14 @@ const HeroBanner1 = ()=>{
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
         (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Common$2f$loadBackgroudImages$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"])();
     }, []);
-    const [iframeSrc, setIframeSrc] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])('about:blank');
+    const [iframeSrc, setIframeSrc] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])("about:blank");
     const [toggle, setToggle] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
     const handelClick = ()=>{
         setIframeSrc("https://www.youtube.com/embed/HC-tgFdIcB0");
         setToggle(!toggle);
     };
     const handelClose = ()=>{
-        setIframeSrc('about:blank');
+        setIframeSrc("about:blank");
         setToggle(!toggle);
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -159,8 +159,8 @@ const HeroBanner1 = ()=>{
                                         height: 473
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 31,
-                                        columnNumber: 15
+                                        lineNumber: 33,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         className: "position-absolute",
@@ -176,33 +176,33 @@ const HeroBanner1 = ()=>{
                                                     fill: "#FF4782"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 34,
-                                                    columnNumber: 19
+                                                    lineNumber: 47,
+                                                    columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                                                     d: "M64.872 30.9841C62.5604 26.1256 56.7373 22.7043 51.1036 24.4722C45.0658 26.3673 42.7542 33.4643 42.5016 34.2782V35.2067C42.5016 34.9015 42.5016 34.5835 42.5016 34.2782C42.2489 33.4643 39.9753 26.3673 33.8995 24.4722C28.2659 22.7043 22.4428 26.1256 20.1312 30.9841C15.9123 39.8872 24.7796 50.8506 25.7901 52.097C27.8591 54.6373 30.413 56.734 33.3007 58.2632C36.1885 59.7924 39.3515 60.723 42.6026 61H42.7795H43.0068C49.3665 60.2873 55.1947 57.0906 59.2383 52.097C60.1857 50.7743 69.0909 39.849 64.872 30.9841Z",
                                                     fill: "white"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 35,
-                                                    columnNumber: 19
+                                                    lineNumber: 51,
+                                                    columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                            lineNumber: 33,
-                                            columnNumber: 17
+                                            lineNumber: 40,
+                                            columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 32,
-                                        columnNumber: 15
+                                        lineNumber: 39,
+                                        columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                lineNumber: 30,
-                                columnNumber: 13
+                                lineNumber: 32,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "cs_hero_text position-relative",
@@ -216,50 +216,51 @@ const HeroBanner1 = ()=>{
                                             height: 39
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                            lineNumber: 41,
-                                            columnNumber: 17
+                                            lineNumber: 60,
+                                            columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 40,
-                                        columnNumber: 15
+                                        lineNumber: 59,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "cs_hero_subtitle cs_accent_color cs_semibold",
-                                        children: "Best Of Your Growth, Our Mission"
+                                        children: "Committed to Your Growth and Success"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 43,
-                                        columnNumber: 15
+                                        lineNumber: 67,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                         className: "cs_hero_title cs_extra_bold wow fadeInDown",
                                         children: [
-                                            "Digital  Marketing ",
+                                            "Digital & Technology",
+                                            " ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "cs_accent_color cs_semibold",
                                                 children: "Solutions."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 44,
-                                                columnNumber: 93
+                                                lineNumber: 72,
+                                                columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 44,
-                                        columnNumber: 15
+                                        lineNumber: 70,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "cs_hero_text_wrapper",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "cs_hero_text cs_medium wow fadeInRight",
-                                                children: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even"
+                                                children: "At TRIVIA Digital Agency, we help ambitious brands grow faster with data-driven digital marketing, creative design, and powerful technology solutions."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 46,
-                                                columnNumber: 17
+                                                lineNumber: 75,
+                                                columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "cs_hero_feature_wrapper",
@@ -275,7 +276,7 @@ const HeroBanner1 = ()=>{
                                                                 height: 94
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                                lineNumber: 49,
+                                                                lineNumber: 85,
                                                                 columnNumber: 19
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -287,19 +288,19 @@ const HeroBanner1 = ()=>{
                                                                     height: 23
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                                    lineNumber: 51,
-                                                                    columnNumber: 23
+                                                                    lineNumber: 92,
+                                                                    columnNumber: 21
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                                lineNumber: 50,
-                                                                columnNumber: 21
+                                                                lineNumber: 91,
+                                                                columnNumber: 19
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                        lineNumber: 48,
-                                                        columnNumber: 19
+                                                        lineNumber: 81,
+                                                        columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "cs_sales_info_wrapper cs_heading_color",
@@ -311,8 +312,8 @@ const HeroBanner1 = ()=>{
                                                                 height: 40
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                                lineNumber: 55,
-                                                                columnNumber: 21
+                                                                lineNumber: 101,
+                                                                columnNumber: 19
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "cs_sales_info",
@@ -322,52 +323,52 @@ const HeroBanner1 = ()=>{
                                                                         children: "85%"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                                        lineNumber: 57,
-                                                                        columnNumber: 23
+                                                                        lineNumber: 108,
+                                                                        columnNumber: 21
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                         className: "cs_fs_14 mb-0",
                                                                         children: "Sales Growth"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                                        lineNumber: 58,
-                                                                        columnNumber: 23
+                                                                        lineNumber: 109,
+                                                                        columnNumber: 21
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                                lineNumber: 56,
-                                                                columnNumber: 21
+                                                                lineNumber: 107,
+                                                                columnNumber: 19
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                        lineNumber: 54,
-                                                        columnNumber: 19
+                                                        lineNumber: 100,
+                                                        columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 47,
-                                                columnNumber: 17
+                                                lineNumber: 80,
+                                                columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 45,
-                                        columnNumber: 15
+                                        lineNumber: 74,
+                                        columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                lineNumber: 39,
-                                columnNumber: 13
+                                lineNumber: 58,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                        lineNumber: 29,
-                        columnNumber: 11
+                        lineNumber: 31,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "cs_hero_sidebar",
@@ -390,8 +391,8 @@ const HeroBanner1 = ()=>{
                                                     height: 120
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 69,
-                                                    columnNumber: 19
+                                                    lineNumber: 124,
+                                                    columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                     src: "/assets/img/icons/player_1.svg",
@@ -401,14 +402,14 @@ const HeroBanner1 = ()=>{
                                                     height: 34
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 70,
-                                                    columnNumber: 19
+                                                    lineNumber: 131,
+                                                    columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                            lineNumber: 68,
-                                            columnNumber: 17
+                                            lineNumber: 119,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "cs_clients_heading cs_mb_10",
@@ -420,32 +421,33 @@ const HeroBanner1 = ()=>{
                                                     height: 19
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 73,
-                                                    columnNumber: 19
+                                                    lineNumber: 140,
+                                                    columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                     className: "cs_fs_20 mb-0",
                                                     children: [
-                                                        "3k+ ",
+                                                        "3k+",
+                                                        " ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                             className: "cs_fs_14 cs_medium",
                                                             children: "Satisfied client"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                            lineNumber: 74,
-                                                            columnNumber: 53
+                                                            lineNumber: 148,
+                                                            columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 74,
-                                                    columnNumber: 19
+                                                    lineNumber: 146,
+                                                    columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                            lineNumber: 72,
-                                            columnNumber: 17
+                                            lineNumber: 139,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             src: "/assets/img/users-group.png",
@@ -454,19 +456,19 @@ const HeroBanner1 = ()=>{
                                             height: 40
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                            lineNumber: 76,
-                                            columnNumber: 17
+                                            lineNumber: 151,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                    lineNumber: 67,
-                                    columnNumber: 15
+                                    lineNumber: 118,
+                                    columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                lineNumber: 66,
-                                columnNumber: 13
+                                lineNumber: 117,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "cs_bottom_content wow fadeInUp",
@@ -488,20 +490,20 @@ const HeroBanner1 = ()=>{
                                                                     className: "odometer"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                                    lineNumber: 85,
-                                                                    columnNumber: 25
+                                                                    lineNumber: 165,
+                                                                    columnNumber: 23
                                                                 }, this),
                                                                 "81%"
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                            lineNumber: 84,
-                                                            columnNumber: 23
+                                                            lineNumber: 164,
+                                                            columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                        lineNumber: 83,
-                                                        columnNumber: 21
+                                                        lineNumber: 163,
+                                                        columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "cs_round_progress",
@@ -517,29 +519,29 @@ const HeroBanner1 = ()=>{
                                                                 r: "40"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                                lineNumber: 90,
-                                                                columnNumber: 25
+                                                                lineNumber: 176,
+                                                                columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                            lineNumber: 89,
-                                                            columnNumber: 23
+                                                            lineNumber: 169,
+                                                            columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                        lineNumber: 88,
-                                                        columnNumber: 21
+                                                        lineNumber: 168,
+                                                        columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 82,
-                                                columnNumber: 19
+                                                lineNumber: 162,
+                                                columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                            lineNumber: 81,
-                                            columnNumber: 17
+                                            lineNumber: 161,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "cs_value_info",
@@ -549,33 +551,33 @@ const HeroBanner1 = ()=>{
                                                     children: "Market value"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 96,
-                                                    columnNumber: 19
+                                                    lineNumber: 182,
+                                                    columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                     className: "cs_fs_18 mb-0",
                                                     children: "$23,53.00"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 97,
-                                                    columnNumber: 19
+                                                    lineNumber: 185,
+                                                    columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                            lineNumber: 95,
-                                            columnNumber: 17
+                                            lineNumber: 181,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                    lineNumber: 80,
-                                    columnNumber: 15
+                                    lineNumber: 160,
+                                    columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                lineNumber: 79,
-                                columnNumber: 13
+                                lineNumber: 159,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "cs_social_links wow fadeInRight",
@@ -589,7 +591,7 @@ const HeroBanner1 = ()=>{
                                                 children: "Facebook"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 103,
+                                                lineNumber: 191,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -598,19 +600,19 @@ const HeroBanner1 = ()=>{
                                                     className: "bi bi-facebook"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 104,
-                                                    columnNumber: 101
+                                                    lineNumber: 193,
+                                                    columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 104,
+                                                lineNumber: 192,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 102,
-                                        columnNumber: 15
+                                        lineNumber: 190,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "#",
@@ -621,7 +623,7 @@ const HeroBanner1 = ()=>{
                                                 children: "Instagram"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 107,
+                                                lineNumber: 197,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -630,19 +632,19 @@ const HeroBanner1 = ()=>{
                                                     className: "bi bi-instagram"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 108,
-                                                    columnNumber: 101
+                                                    lineNumber: 199,
+                                                    columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 108,
+                                                lineNumber: 198,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 106,
-                                        columnNumber: 15
+                                        lineNumber: 196,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "#",
@@ -653,7 +655,7 @@ const HeroBanner1 = ()=>{
                                                 children: "LinkedIn"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 111,
+                                                lineNumber: 203,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -662,19 +664,19 @@ const HeroBanner1 = ()=>{
                                                     className: "bi bi-linkedin"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 112,
-                                                    columnNumber: 101
+                                                    lineNumber: 205,
+                                                    columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 112,
+                                                lineNumber: 204,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 110,
-                                        columnNumber: 15
+                                        lineNumber: 202,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "#",
@@ -685,7 +687,7 @@ const HeroBanner1 = ()=>{
                                                 children: "Twitter"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 115,
+                                                lineNumber: 209,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -694,19 +696,19 @@ const HeroBanner1 = ()=>{
                                                     className: "bi bi-twitter-x"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 116,
-                                                    columnNumber: 101
+                                                    lineNumber: 211,
+                                                    columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 116,
+                                                lineNumber: 210,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 114,
-                                        columnNumber: 15
+                                        lineNumber: 208,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "#",
@@ -717,7 +719,7 @@ const HeroBanner1 = ()=>{
                                                 children: "YouTube"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 119,
+                                                lineNumber: 215,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -726,37 +728,37 @@ const HeroBanner1 = ()=>{
                                                     className: "bi bi-youtube"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                    lineNumber: 120,
-                                                    columnNumber: 101
+                                                    lineNumber: 217,
+                                                    columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                                lineNumber: 120,
+                                                lineNumber: 216,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                        lineNumber: 118,
-                                        columnNumber: 15
+                                        lineNumber: 214,
+                                        columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                                lineNumber: 101,
-                                columnNumber: 13
+                                lineNumber: 189,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                        lineNumber: 65,
-                        columnNumber: 11
+                        lineNumber: 116,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                lineNumber: 28,
-                columnNumber: 9
+                lineNumber: 30,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$VideoModal$2f$VideoModal$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                 isTrue: toggle,
@@ -764,14 +766,14 @@ const HeroBanner1 = ()=>{
                 handelClose: handelClose
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-                lineNumber: 126,
-                columnNumber: 9
+                lineNumber: 224,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner1.tsx",
-        lineNumber: 27,
-        columnNumber: 9
+        lineNumber: 26,
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = HeroBanner1;
@@ -969,34 +971,34 @@ const Testimonial1 = ()=>{
     };
     const testimonialContent = [
         {
-            img: '/assets/img/avatar_4.jpg',
-            subtitle: 'Acme Co.',
-            title: 'Brooklyn Simmons',
-            content: 'This team exceeded my expectations! They were punctual and meticulous. My office has looked better. Will use them again!'
+            img: "/assets/img/avatar_4.jpg",
+            subtitle: "Acme Co.",
+            title: "Brooklyn Simmons",
+            content: "This team exceeded my expectations! They were punctual and meticulous. My office has looked better. Will use them again!"
         },
         {
-            img: '/assets/img/avatar_2.jpg',
-            subtitle: 'Barone LLC.',
-            title: 'Cody Fisher',
-            content: 'This team exceeded my expectations! They were punctual and ssets/imeticulous. My office has looked better. Will use them again!'
+            img: "/assets/img/avatar_2.jpg",
+            subtitle: "Barone LLC.",
+            title: "Cody Fisher",
+            content: "This team exceeded my expectations! They were punctual and ssets/imeticulous. My office has looked better. Will use them again!"
         },
         {
-            img: '/assets/img/avatar_3.jpg',
-            subtitle: 'Biffco Ltd.',
-            title: 'Leslie Alexander',
-            content: 'This team exceeded my expectations! They were punctual and meticulous. My office has looked better. Will use them again!'
+            img: "/assets/img/avatar_3.jpg",
+            subtitle: "Biffco Ltd.",
+            title: "Leslie Alexander",
+            content: "This team exceeded my expectations! They were punctual and meticulous. My office has looked better. Will use them again!"
         },
         {
-            img: '/assets/img/avatar_4.jpg',
-            subtitle: 'Binford Ltd.',
-            title: 'Wade Warren',
-            content: 'This team exceeded my expectations! They were punctual and meticulous. My office has looked better. Will use them again!'
+            img: "/assets/img/avatar_4.jpg",
+            subtitle: "Binford Ltd.",
+            title: "Wade Warren",
+            content: "This team exceeded my expectations! They were punctual and meticulous. My office has looked better. Will use them again!"
         },
         {
-            img: '/assets/img/avatar_3.jpg',
-            subtitle: 'Acme Co.',
-            title: 'Brooklyn Simmons',
-            content: 'This team exceeded my expectations! They were punctual and meticulous. My office has looked better. Will use them again!'
+            img: "/assets/img/avatar_3.jpg",
+            subtitle: "Acme Co.",
+            title: "Brooklyn Simmons",
+            content: "This team exceeded my expectations! They were punctual and meticulous. My office has looked better. Will use them again!"
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1006,7 +1008,7 @@ const Testimonial1 = ()=>{
                 className: "cs_height_120 cs_height_lg_80"
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                lineNumber: 59,
+                lineNumber: 89,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1021,32 +1023,32 @@ const Testimonial1 = ()=>{
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "cs_section_subtitle cs_fs-18 cs_semibold cs_accent_color cs_mb_20 wow fadeInDown",
                                         children: [
-                                            "Our Testimonial",
+                                            "Client satisfaction is the foundation of our success.",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "cs_shape_right"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                lineNumber: 64,
-                                                columnNumber: 30
+                                                lineNumber: 95,
+                                                columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                        lineNumber: 63,
+                                        lineNumber: 93,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         className: "cs_fs_48 mb-0 wow fadeInUp",
-                                        children: "Clients Feedback"
+                                        children: "Our Testimonials"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                        lineNumber: 66,
+                                        lineNumber: 97,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                lineNumber: 62,
+                                lineNumber: 92,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1064,12 +1066,12 @@ const Testimonial1 = ()=>{
                                                 height: 23
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                lineNumber: 71,
+                                                lineNumber: 105,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                            lineNumber: 70,
+                                            lineNumber: 101,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1082,36 +1084,36 @@ const Testimonial1 = ()=>{
                                                 height: 23
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                lineNumber: 74,
+                                                lineNumber: 116,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                            lineNumber: 73,
+                                            lineNumber: 112,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                    lineNumber: 69,
+                                    lineNumber: 100,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                lineNumber: 68,
+                                lineNumber: 99,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                        lineNumber: 61,
+                        lineNumber: 91,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "cs_height_60 cs_height_lg_50"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                        lineNumber: 79,
+                        lineNumber: 126,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1148,13 +1150,13 @@ const Testimonial1 = ()=>{
                                                                         height: 61
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                        lineNumber: 90,
-                                                                        columnNumber: 25
+                                                                        lineNumber: 145,
+                                                                        columnNumber: 29
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                    lineNumber: 89,
-                                                                    columnNumber: 23
+                                                                    lineNumber: 144,
+                                                                    columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "cs_avatar_info",
@@ -1164,33 +1166,33 @@ const Testimonial1 = ()=>{
                                                                             children: item.title
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                            lineNumber: 93,
-                                                                            columnNumber: 25
+                                                                            lineNumber: 153,
+                                                                            columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                             className: "mb-0",
                                                                             children: item.subtitle
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                            lineNumber: 94,
-                                                                            columnNumber: 25
+                                                                            lineNumber: 156,
+                                                                            columnNumber: 29
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                    lineNumber: 92,
-                                                                    columnNumber: 23
+                                                                    lineNumber: 152,
+                                                                    columnNumber: 27
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                            lineNumber: 88,
-                                                            columnNumber: 21
+                                                            lineNumber: 143,
+                                                            columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                        lineNumber: 87,
-                                                        columnNumber: 19
+                                                        lineNumber: 142,
+                                                        columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "cs_testimonial_content cs_gray_bg_1 cs_radius_4 position-relative",
@@ -1199,8 +1201,8 @@ const Testimonial1 = ()=>{
                                                                 children: item.content
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                lineNumber: 99,
-                                                                columnNumber: 21
+                                                                lineNumber: 161,
+                                                                columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "cs_rating",
@@ -1209,13 +1211,13 @@ const Testimonial1 = ()=>{
                                                                     className: "cs_rating_percentage"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                    lineNumber: 101,
-                                                                    columnNumber: 23
+                                                                    lineNumber: 163,
+                                                                    columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                lineNumber: 100,
-                                                                columnNumber: 21
+                                                                lineNumber: 162,
+                                                                columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                 className: "cs_quote_icon position-absolute",
@@ -1226,49 +1228,49 @@ const Testimonial1 = ()=>{
                                                                     height: 35
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                    lineNumber: 104,
-                                                                    columnNumber: 23
+                                                                    lineNumber: 166,
+                                                                    columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                                lineNumber: 103,
-                                                                columnNumber: 21
+                                                                lineNumber: 165,
+                                                                columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                        lineNumber: 98,
-                                                        columnNumber: 19
+                                                        lineNumber: 160,
+                                                        columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                                lineNumber: 86,
-                                                columnNumber: 17
+                                                lineNumber: 141,
+                                                columnNumber: 21
                                             }, this)
                                         }, i, false, {
                                             fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                            lineNumber: 85,
-                                            columnNumber: 15
+                                            lineNumber: 140,
+                                            columnNumber: 19
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                    lineNumber: 83,
-                                    columnNumber: 13
+                                    lineNumber: 138,
+                                    columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                                lineNumber: 82,
+                                lineNumber: 137,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                            lineNumber: 81,
+                            lineNumber: 128,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                        lineNumber: 80,
+                        lineNumber: 127,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1280,39 +1282,39 @@ const Testimonial1 = ()=>{
                             height: 1274
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                            lineNumber: 115,
+                            lineNumber: 182,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                        lineNumber: 114,
+                        lineNumber: 181,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "cs_testimonial_pill_icon position-absolute"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                        lineNumber: 117,
+                        lineNumber: 189,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                lineNumber: 60,
+                lineNumber: 90,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "cs_height_120 cs_height_lg_80"
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-                lineNumber: 119,
+                lineNumber: 191,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/Components/Testimonial/Testimonial1.tsx",
-        lineNumber: 58,
-        columnNumber: 1
+        lineNumber: 88,
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = Testimonial1;

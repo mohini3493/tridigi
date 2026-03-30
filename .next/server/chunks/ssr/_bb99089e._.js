@@ -120,7 +120,7 @@ const Footer1 = ()=>{
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "cs_mb_37",
-                                                children: "We provide expert advice to both individuals and businesses. With over 10 years of experience we ensure that you’re always getting the best guidance from the top people in the entire Digital Marketing industry."
+                                                children: "TRIVIA Digital Agency is a full-service digital marketing and technology company providing innovative solutions to businesses worldwide. We help brands grow through strategy, creativity, and performance-driven execution."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Footer/Footer1.tsx",
                                                 lineNumber: 51,
@@ -331,7 +331,7 @@ const Footer1 = ()=>{
                                                 className: "cs_footer_contact_list cs_mb_24 list-unstyled",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        href: "tel:+91 9550611298",
+                                                        href: "tel:919550611298",
                                                         "aria-label": "Phone call link",
                                                         children: "+91 9550611298"
                                                     }, void 0, false, {
@@ -668,19 +668,19 @@ const DefalultLayout = ({ children })=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Header$2f$Header4$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/(innerpage)/layout.tsx",
                 lineNumber: 8,
-                columnNumber: 13
+                columnNumber: 7
             }, this),
             children,
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Footer$2f$Footer1$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/(innerpage)/layout.tsx",
                 lineNumber: 10,
-                columnNumber: 13
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/(innerpage)/layout.tsx",
         lineNumber: 7,
-        columnNumber: 9
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = DefalultLayout;

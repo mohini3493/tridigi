@@ -423,33 +423,33 @@ const Counter1 = ()=>{
                                             className: "odometer"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                                            lineNumber: 19,
+                                            lineNumber: 21,
                                             columnNumber: 17
                                         }, this),
                                         "500+"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                                    lineNumber: 18,
+                                    lineNumber: 20,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "cs_counter_title cs_fs_18 mb-0",
-                                    children: "Happy Customer"
+                                    children: "Happy Clients"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                                    lineNumber: 21,
+                                    lineNumber: 23,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                            lineNumber: 17,
+                            lineNumber: 19,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                        lineNumber: 16,
+                        lineNumber: 18,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -461,18 +461,18 @@ const Counter1 = ()=>{
                                     className: "cs_counter_number cs_fs_48 cs_bold cs_heading_color mb-0",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            "data-count-to": "4530",
+                                            "data-count-to": "4500",
                                             className: "odometer"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                                            lineNumber: 27,
+                                            lineNumber: 29,
                                             columnNumber: 17
                                         }, this),
-                                        "4530+"
+                                        "4500+"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                                    lineNumber: 26,
+                                    lineNumber: 28,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -480,18 +480,18 @@ const Counter1 = ()=>{
                                     children: "Project Delivered"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                                    lineNumber: 29,
+                                    lineNumber: 31,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                            lineNumber: 25,
+                            lineNumber: 27,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                        lineNumber: 24,
+                        lineNumber: 26,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -507,33 +507,33 @@ const Counter1 = ()=>{
                                             className: "odometer"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                                            lineNumber: 35,
+                                            lineNumber: 39,
                                             columnNumber: 17
                                         }, this),
                                         "450+"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                                    lineNumber: 34,
+                                    lineNumber: 38,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "cs_counter_title cs_fs_18 mb-0",
-                                    children: "Employees"
+                                    children: "Skilled Professionals"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                                    lineNumber: 37,
+                                    lineNumber: 41,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                            lineNumber: 33,
+                            lineNumber: 37,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
-                        lineNumber: 32,
+                        lineNumber: 36,
                         columnNumber: 11
                     }, this)
                 ]
@@ -550,7 +550,7 @@ const Counter1 = ()=>{
     }, void 0, false, {
         fileName: "[project]/src/app/Components/Counter/Counter1.tsx",
         lineNumber: 5,
-        columnNumber: 1
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = Counter1;

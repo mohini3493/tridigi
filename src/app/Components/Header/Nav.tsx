@@ -28,11 +28,6 @@ export default function Nav({ setMobileToggle }) {
                   <ul>
                     <li>
                       <Link href="#" onClick={() => setMobileToggle(false)}>
-                        Digital Marketing
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="#" onClick={() => setMobileToggle(false)}>
                         Creative Advertising
                       </Link>
                     </li>
@@ -256,7 +251,7 @@ export default function Nav({ setMobileToggle }) {
         <DropDown>
           <div className="cs-mega_menu">
             <div className="container">
-              <div className="cs-mega_wrapper">
+              <div className="cs-mega_wrapper cs-mega_wrapper--5col">
                 {/* Column 1 */}
                 <div className="cs-mega_col">
                   <h4 className="cs-mega_title">
@@ -412,7 +407,7 @@ export default function Nav({ setMobileToggle }) {
                   </ul>
                 </div>
 
-                {/* Column 5 */}
+                {/* Column 4 */}
                 <div className="cs-mega_col">
                   <h4 className="cs-mega_title">
                     <Image
@@ -447,27 +442,7 @@ export default function Nav({ setMobileToggle }) {
                   </ul>
                 </div>
 
-                {/* Column 4 */}
-                <div className="cs-mega_col">
-                  <h4 className="cs-mega_title">
-                    <Image
-                      src="/assets/img/design-thinking.png"
-                      alt="img"
-                      width={32}
-                      height={32}
-                    />
-                    <span>Development And Design</span>
-                  </h4>
-                  <ul className="cs-mega_submenu">
-                    <li>
-                      <Link href="#" onClick={() => setMobileToggle(false)}>
-                        Full Stack
-                      </Link>
-                    </li>
-                  </ul>
-                </div>
-
-                {/* Column 6 */}
+                {/* Column 5 */}
                 <div className="cs-mega_col">
                   <h4 className="cs-mega_title">
                     <Image
@@ -492,6 +467,11 @@ export default function Nav({ setMobileToggle }) {
                     <li>
                       <Link href="#" onClick={() => setMobileToggle(false)}>
                         Website And App Design
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="#" onClick={() => setMobileToggle(false)}>
+                        Full Stack Development
                       </Link>
                     </li>
                   </ul>
@@ -519,7 +499,7 @@ export default function Nav({ setMobileToggle }) {
               </Link>
             </li>
             <li>
-              <Link href="#" onClick={() => setMobileToggle(false)}>
+              <Link href="/blog" onClick={() => setMobileToggle(false)}>
                 Blogs
               </Link>
             </li>

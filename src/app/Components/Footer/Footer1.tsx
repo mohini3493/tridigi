@@ -49,10 +49,10 @@ const Footer1 = () => {
                   height={65}
                 />
                 <p className="cs_mb_37">
-                  We provide expert advice to both individuals and businesses.
-                  With over 10 years of experience we ensure that you’re always
-                  getting the best guidance from the top people in the entire
-                  Digital Marketing industry.
+                  TRIVIA Digital Agency is a full-service digital marketing and
+                  technology company providing innovative solutions to
+                  businesses worldwide. We help brands grow through strategy,
+                  creativity, and performance-driven execution.
                 </p>
               </div>
               <div className="cs_social_btns cs_style_1">
@@ -126,7 +126,7 @@ const Footer1 = () => {
                 </h3>
                 <ul className="cs_footer_contact_list cs_mb_24 list-unstyled">
                   <li>
-                    <a href="tel:+91 9550611298" aria-label="Phone call link">
+                    <a href="tel:919550611298" aria-label="Phone call link">
                       +91 9550611298
                     </a>
                   </li>

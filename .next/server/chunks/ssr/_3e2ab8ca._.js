@@ -1592,16 +1592,8 @@ const HowWeDo = ()=>{
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         className: "cs_fs_48 mb-0 wow fadeInUp",
-                                        children: [
-                                            "Crafting Creative Solutions ",
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                lineNumber: 14,
-                                                columnNumber: 84
-                                            }, this),
-                                            " for Modern Brands"
-                                        ]
-                                    }, void 0, true, {
+                                        children: "Our Approach to Delivering Smart & Scalable Solutions"
+                                    }, void 0, false, {
                                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
                                         lineNumber: 14,
                                         columnNumber: 13
@@ -1616,23 +1608,15 @@ const HowWeDo = ()=>{
                                 className: "cs_section_heading_right wow fadeInRight",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "cs_section_heading_text mb-0",
-                                    children: [
-                                        "Our comprehensive suite of digital marketing services is ",
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                            fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                            lineNumber: 17,
-                                            columnNumber: 114
-                                        }, this),
-                                        " designed to elevate your brands visibility."
-                                    ]
-                                }, void 0, true, {
+                                    children: "Successful projects come from clear communication, careful planning, and strong teamwork. From the initial discussion to the final delivery, our team stays focused on quality, performance, and client satisfaction. By combining strategy, design, marketing, and technology, we create solutions that are not only visually impressive but also effective and reliable."
+                                }, void 0, false, {
                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                    lineNumber: 17,
+                                    lineNumber: 19,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                lineNumber: 16,
+                                lineNumber: 18,
                                 columnNumber: 11
                             }, this)
                         ]
@@ -1645,7 +1629,7 @@ const HowWeDo = ()=>{
                         className: "cs_height_60 cs_height_lg_50"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                        lineNumber: 20,
+                        lineNumber: 29,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1668,57 +1652,6 @@ const HowWeDo = ()=>{
                                                         height: 32
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                        lineNumber: 26,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 25,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "cs_iconbox_info",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                            className: "cs_fs_24 cs_mb_4",
-                                                            children: "Our Mission"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                            lineNumber: 29,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "cs_fs_18 cs_light mb-0",
-                                                            children: "Our mission is to empower brands by crafting innovative and impactful creative solutions.  needs strategic campaigns success."
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                            lineNumber: 30,
-                                                            columnNumber: 19
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 28,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                            lineNumber: 24,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "cs_iconbox cs_style_1",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "cs_iconbox_icon cs_center cs_blue_bg cs_radius_50",
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                        src: "/assets/img/icons/star_2.png",
-                                                        alt: "img",
-                                                        width: 32,
-                                                        height: 32
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
                                                         lineNumber: 35,
                                                         columnNumber: 19
                                                     }, this)
@@ -1732,24 +1665,24 @@ const HowWeDo = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                             className: "cs_fs_24 cs_mb_4",
-                                                            children: "Our Vision"
+                                                            children: "Our Mission"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                            lineNumber: 38,
+                                                            lineNumber: 43,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "cs_fs_18 cs_light mb-0",
-                                                            children: "Our vision is to be the leading creative agency that redefines how brands connect with the world. We push the boundaries of creativity."
+                                                            children: "Our mission is to help businesses grow with innovative digital, creative, and technology solutions. We aim to deliver work that adds real value and supports long-term success. Every project we take on is handled with dedication, responsibility, and a focus on results."
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                            lineNumber: 39,
+                                                            lineNumber: 44,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 37,
+                                                    lineNumber: 42,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
@@ -1764,18 +1697,18 @@ const HowWeDo = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                     className: "cs_iconbox_icon cs_center cs_blue_bg cs_radius_50",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                        src: "/assets/img/icons/shield_check.png",
+                                                        src: "/assets/img/icons/star_2.png",
                                                         alt: "img",
                                                         width: 32,
                                                         height: 32
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                        lineNumber: 44,
+                                                        lineNumber: 55,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 43,
+                                                    lineNumber: 54,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1783,41 +1716,92 @@ const HowWeDo = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                             className: "cs_fs_24 cs_mb_4",
-                                                            children: "What Sets Us Apart"
+                                                            children: "Our Vision"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                            lineNumber: 47,
+                                                            lineNumber: 63,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "cs_fs_18 cs_light mb-0",
-                                                            children: "fostering a culture of innovation and continuous growth, we aim to shape the future of branding and  to reach their full potential."
+                                                            children: "Our vision is to become a trusted global digital agency known for creativity, quality, and performance. We strive to build long-term partnerships with our clients by delivering consistent and reliable solutions. Innovation and continuous improvement are at the core of everything we do."
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                            lineNumber: 48,
+                                                            lineNumber: 64,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 46,
+                                                    lineNumber: 62,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                            lineNumber: 42,
+                                            lineNumber: 53,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "cs_iconbox cs_style_1",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "cs_iconbox_icon cs_center cs_blue_bg cs_radius_50",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                        src: "/assets/img/icons/shield_check.png",
+                                                        alt: "img",
+                                                        width: 32,
+                                                        height: 32
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
+                                                        lineNumber: 75,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
+                                                    lineNumber: 74,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "cs_iconbox_info",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                            className: "cs_fs_24 cs_mb_4",
+                                                            children: "What Makes Us Different?"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
+                                                            lineNumber: 83,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            className: "cs_fs_18 cs_light mb-0",
+                                                            children: "We combine creativity, technical expertise, and strategic thinking to deliver complete solutions under one roof. Our team works closely with clients to understand their goals and provide customised services. This approach helps us create work that is effective, scalable, and future-ready."
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
+                                                            lineNumber: 84,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
+                                                    lineNumber: 82,
+                                                    columnNumber: 17
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
+                                            lineNumber: 73,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                    lineNumber: 23,
+                                    lineNumber: 32,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                lineNumber: 22,
+                                lineNumber: 31,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1835,7 +1819,7 @@ const HowWeDo = ()=>{
                                                     height: 369
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 56,
+                                                    lineNumber: 98,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1847,18 +1831,18 @@ const HowWeDo = ()=>{
                                                         height: 33
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                        lineNumber: 58,
+                                                        lineNumber: 105,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 57,
+                                                    lineNumber: 104,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                            lineNumber: 55,
+                                            lineNumber: 97,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1871,7 +1855,7 @@ const HowWeDo = ()=>{
                                                     height: 369
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 62,
+                                                    lineNumber: 114,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1883,12 +1867,12 @@ const HowWeDo = ()=>{
                                                         height: 39
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                        lineNumber: 64,
+                                                        lineNumber: 121,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 63,
+                                                    lineNumber: 120,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1900,18 +1884,18 @@ const HowWeDo = ()=>{
                                                         height: 116
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                        lineNumber: 67,
+                                                        lineNumber: 129,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                                    lineNumber: 66,
+                                                    lineNumber: 128,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                            lineNumber: 61,
+                                            lineNumber: 113,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -1921,24 +1905,24 @@ const HowWeDo = ()=>{
                                             height: 123
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                            lineNumber: 70,
+                                            lineNumber: 137,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                    lineNumber: 54,
+                                    lineNumber: 96,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                                lineNumber: 53,
+                                lineNumber: 95,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                        lineNumber: 21,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1950,12 +1934,12 @@ const HowWeDo = ()=>{
                             height: 1274
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                            lineNumber: 75,
+                            lineNumber: 147,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                        lineNumber: 74,
+                        lineNumber: 146,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1967,12 +1951,12 @@ const HowWeDo = ()=>{
                             height: 1274
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                            lineNumber: 78,
+                            lineNumber: 155,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                        lineNumber: 77,
+                        lineNumber: 154,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1984,12 +1968,12 @@ const HowWeDo = ()=>{
                             height: 132
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                            lineNumber: 81,
+                            lineNumber: 163,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                        lineNumber: 80,
+                        lineNumber: 162,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2001,12 +1985,12 @@ const HowWeDo = ()=>{
                             height: 44
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                            lineNumber: 84,
+                            lineNumber: 171,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                        lineNumber: 83,
+                        lineNumber: 170,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2018,12 +2002,12 @@ const HowWeDo = ()=>{
                             height: 161
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                            lineNumber: 87,
+                            lineNumber: 179,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                        lineNumber: 86,
+                        lineNumber: 178,
                         columnNumber: 9
                     }, this)
                 ]
@@ -2036,7 +2020,7 @@ const HowWeDo = ()=>{
                 className: "cs_height_120 cs_height_lg_80"
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/HowWeDo/HowWeDo.tsx",
-                lineNumber: 90,
+                lineNumber: 187,
                 columnNumber: 7
             }, this)
         ]
@@ -2535,19 +2519,19 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 const Brand1 = ()=>{
     const chooseContent = [
         {
-            img: '/assets/img/brand_1.svg'
+            img: "/assets/img/brand_1.svg"
         },
         {
-            img: '/assets/img/brand_2.svg'
+            img: "/assets/img/brand_2.svg"
         },
         {
-            img: '/assets/img/brand_3.svg'
+            img: "/assets/img/brand_3.svg"
         },
         {
-            img: '/assets/img/brand_4.svg'
+            img: "/assets/img/brand_4.svg"
         },
         {
-            img: '/assets/img/brand_5.svg'
+            img: "/assets/img/brand_5.svg"
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2559,15 +2543,15 @@ const Brand1 = ()=>{
                     className: "cs_section_heading cs_style_1 cs_type_2",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "cs_section_subtitle cs_fs_20 cs_semibold cs_accent_color mb-0",
-                        children: "CLIENTS I’VE WORKED WITH"
+                        children: "CLIENTS WE’VE WORKED WITH"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                        lineNumber: 18,
+                        lineNumber: 17,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                    lineNumber: 17,
+                    lineNumber: 16,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2586,17 +2570,17 @@ const Brand1 = ()=>{
                                             height: 60
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                                            lineNumber: 25,
-                                            columnNumber: 17
+                                            lineNumber: 26,
+                                            columnNumber: 19
                                         }, this)
                                     }, i, false, {
                                         fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                                        lineNumber: 24,
-                                        columnNumber: 15
+                                        lineNumber: 25,
+                                        columnNumber: 17
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                                lineNumber: 22,
+                                lineNumber: 23,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2610,40 +2594,40 @@ const Brand1 = ()=>{
                                             height: 60
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                                            lineNumber: 32,
-                                            columnNumber: 17
+                                            lineNumber: 33,
+                                            columnNumber: 19
                                         }, this)
                                     }, i, false, {
                                         fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                                        lineNumber: 31,
-                                        columnNumber: 15
+                                        lineNumber: 32,
+                                        columnNumber: 17
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                                lineNumber: 29,
+                                lineNumber: 30,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                        lineNumber: 21,
+                        lineNumber: 22,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-                    lineNumber: 20,
+                    lineNumber: 21,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-            lineNumber: 16,
+            lineNumber: 15,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/Components/Brand/Brand1.tsx",
-        lineNumber: 15,
-        columnNumber: 1
+        lineNumber: 14,
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = Brand1;
