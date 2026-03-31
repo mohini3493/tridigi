@@ -331,7 +331,9 @@ html.cs-scrolling .cs-mega_parent {
   .menu-item-has-children:hover .cs-mega_menu {
     opacity: 1;
     visibility: visible;
-    transition: opacity 0.3s ease 0.2s, visibility 0.3s ease 0.2s;
+    transition:
+      opacity 0.3s ease 0.2s,
+      visibility 0.3s ease 0.2s;
   }
 }
 
@@ -389,9 +391,29 @@ html.cs-scrolling .cs-mega_parent {
 
 /* Hamburger nav breakpoint — matches theme's max-width: 1199px mobile nav */
 @media (max-width: 1199px) {
-  /* Hide all mega menus and reset full-width desktop positioning */
-  .cs-mega_parent .cs-mega_menu {
+  /* Restore relative positioning so each mega parent li is its own positioning
+     context. The global "position: static !important" is needed on desktop to
+     let the mega menu span full viewport width, but on mobile the mega menu is
+     position:relative already so each li must be relative so its own toggle
+     (position:absolute) anchors to IT and not to a shared ancestor. Without
+     this, all mega toggles overlap at the same spot and only one is clickable. */
+  .cs-mega_parent {
+    position: relative !important;
+  }
+
+  /* Hide mega menu wrapper by default */
+  .cs-mega_parent .cs-mega-wrap {
     display: none;
+  }
+
+  /* Show the specific wrapper whose DropDown state is active */
+  .cs-mega_parent .cs-mega-wrap.cs-mega-wrap--open {
+    display: block;
+  }
+
+  /* Reset desktop full-width positioning and style the mega menu inside the open wrapper */
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu {
+    display: block;
     position: relative !important;
     left: 0 !important;
     top: auto !important;
@@ -400,20 +422,39 @@ html.cs-scrolling .cs-mega_parent {
     opacity: 1 !important;
     visibility: visible !important;
     box-shadow: none !important;
-  }
-
-  /* Show only the specific mega menu whose React toggle state is active */
-  .cs-mega_parent .cs-mega_menu.cs-dropdown-open {
-    display: block;
     background-color: #181818;
     border: 0;
     padding: 0;
   }
-  .cs-mega_parent .cs-mega_menu.cs-dropdown-open h4 {
+
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu h4 {
     color: var(--gray-color-2);
   }
-  .cs-mega_parent .cs-mega_menu.cs-dropdown-open ul {
+
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu ul {
     display: block !important;
+  }
+
+  /* Mobile nav hover colours — dark bg (#181818) needs light hover feedback */
+  .cs_nav .cs_nav_list > li > a:hover,
+  .cs_nav .cs_nav_list > li > a:focus {
+    color: #7444fd !important;
+    background-color: rgba(116, 68, 253, 0.08);
+  }
+
+  /* Dropdown & mega menu links */
+  .cs_nav .cs_nav_list ul li a:hover,
+  .cs_nav .cs_nav_list ul li a:focus,
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu ul li a:hover,
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu ul li a:focus {
+    color: #7444fd !important;
+    background-color: rgba(116, 68, 253, 0.08);
+    padding-left: 28px !important;
+  }
+
+  /* Section headings inside mega menu — subtle highlight on hover */
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu .cs-mega_col h4:hover {
+    color: #7444fd !important;
   }
 }
 
@@ -8198,7 +8239,7 @@ label {
   23. Service
 ----------------------------------------------------------------*/
 .cs_service_item.cs_style_1 {
-  padding: 35px 100px 35px 0;
+  padding: 35px 65px 35px 0;
 }
 .cs_service_item.cs_style_1:first-child::before {
   position: absolute;
@@ -8221,7 +8262,7 @@ label {
 }
 .cs_service_item.cs_style_1 .cs_service_content {
   width: 100%;
-  max-width: 890px;
+  max-width: 1025px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -8231,7 +8272,7 @@ label {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  gap: 140px;
+  gap: 80px;
 }
 .cs_service_item.cs_style_1 .cs_service_content > * {
   position: relative;
@@ -8239,9 +8280,9 @@ label {
 }
 .cs_service_item.cs_style_1 .cs_service_title {
   text-wrap: nowrap;
-  -webkit-box-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
+  -webkit-box-flex: 2;
+  -ms-flex: 2;
+  flex: 2;
 }
 .cs_service_item.cs_style_1 .cs_service_title:hover a {
   color: var(--accent-color);

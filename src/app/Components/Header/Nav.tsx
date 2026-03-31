@@ -10,7 +10,7 @@ export default function Nav({ setMobileToggle }) {
           Digital Marketing
         </Link>
 
-        <DropDown>
+        <DropDown isMega>
           <div className="cs-mega_menu">
             <div className="container">
               <div className="cs-mega_wrapper">
@@ -248,7 +248,7 @@ export default function Nav({ setMobileToggle }) {
           Technology
         </Link>
 
-        <DropDown>
+        <DropDown isMega>
           <div className="cs-mega_menu">
             <div className="container">
               <div className="cs-mega_wrapper cs-mega_wrapper--5col">

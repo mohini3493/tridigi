@@ -329,8 +329,23 @@ html.cs-scrolling .cs-mega_parent {
 }
 
 @media (width <= 1199px) {
-  .cs-mega_parent .cs-mega_menu {
+  .cs-mega_parent {
+    position: relative !important;
+  }
+
+  .cs-mega_parent .cs-mega-wrap {
     display: none;
+  }
+
+  .cs-mega_parent .cs-mega-wrap.cs-mega-wrap--open {
+    display: block;
+  }
+
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu {
+    background-color: #181818;
+    border: 0;
+    padding: 0;
+    display: block;
     opacity: 1 !important;
     visibility: visible !important;
     width: 100% !important;
@@ -341,19 +356,27 @@ html.cs-scrolling .cs-mega_parent {
     transform: none !important;
   }
 
-  .cs-mega_parent .cs-mega_menu.cs-dropdown-open {
-    background-color: #181818;
-    border: 0;
-    padding: 0;
-    display: block;
-  }
-
-  .cs-mega_parent .cs-mega_menu.cs-dropdown-open h4 {
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu h4 {
     color: var(--gray-color-2);
   }
 
-  .cs-mega_parent .cs-mega_menu.cs-dropdown-open ul {
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu ul {
     display: block !important;
+  }
+
+  .cs_nav .cs_nav_list > li > a:hover, .cs_nav .cs_nav_list > li > a:focus {
+    background-color: #7444fd14;
+    color: #7444fd !important;
+  }
+
+  .cs_nav .cs_nav_list ul li a:hover, .cs_nav .cs_nav_list ul li a:focus, .cs-mega_parent .cs-mega-wrap .cs-mega_menu ul li a:hover, .cs-mega_parent .cs-mega-wrap .cs-mega_menu ul li a:focus {
+    background-color: #7444fd14;
+    color: #7444fd !important;
+    padding-left: 28px !important;
+  }
+
+  .cs-mega_parent .cs-mega-wrap .cs-mega_menu .cs-mega_col h4:hover {
+    color: #7444fd !important;
   }
 }
 
@@ -8621,7 +8644,7 @@ label {
 }
 
 .cs_service_item.cs_style_1 {
-  padding: 35px 100px 35px 0;
+  padding: 35px 65px 35px 0;
 }
 
 .cs_service_item.cs_style_1:first-child:before {
@@ -8648,9 +8671,9 @@ label {
 .cs_service_item.cs_style_1 .cs_service_content {
   justify-content: space-between;
   align-items: center;
-  gap: 140px;
+  gap: 80px;
   width: 100%;
-  max-width: 890px;
+  max-width: 1025px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -8663,9 +8686,9 @@ label {
 
 .cs_service_item.cs_style_1 .cs_service_title {
   text-wrap: nowrap;
-  -webkit-box-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
+  -webkit-box-flex: 2;
+  -ms-flex: 2;
+  flex: 2;
 }
 
 .cs_service_item.cs_style_1 .cs_service_title:hover a {

@@ -1,33 +1,33 @@
-import { useState, cloneElement, isValidElement } from 'react';
+"use client";
+import { useState } from 'react';
 
-export default function DropDown({ children }: { children: React.ReactNode }) {
-  // Mobile Toggle
+export default function DropDown({
+  children,
+  isMega = false,
+}: {
+  children: React.ReactNode;
+  isMega?: boolean;
+}) {
   const [mobileToggle, setMobileToggle] = useState(false);
-  const handelMobileToggle = () => {
-    setMobileToggle(!mobileToggle);
-  };
-
-  // Inject cs-dropdown-open class directly onto the child element so each
-  // mega menu only responds to its own toggle state (not a CSS sibling selector).
-  const toggledChildren = isValidElement(children)
-    ? cloneElement(children as React.ReactElement<any>, {
-        className: `${(children as React.ReactElement<any>).props.className || ''}${mobileToggle ? ' cs-dropdown-open' : ''}`,
-      })
-    : children;
 
   return (
     <>
       <span
-        className={
-          mobileToggle
-            ? 'cs-munu_dropdown_toggle active'
-            : 'cs-munu_dropdown_toggle'
-        }
-        onClick={handelMobileToggle}
+        className={mobileToggle ? 'cs-munu_dropdown_toggle active' : 'cs-munu_dropdown_toggle'}
+        onClick={() => setMobileToggle(!mobileToggle)}
       >
         <span></span>
       </span>
-      {toggledChildren}
+
+      {isMega ? (
+        // Wrapper div fully owned by this component — no cloneElement needed.
+        // CSS targets this wrapper to show/hide the mega menu on mobile.
+        <div className={mobileToggle ? 'cs-mega-wrap cs-mega-wrap--open' : 'cs-mega-wrap'}>
+          {children}
+        </div>
+      ) : (
+        children
+      )}
     </>
   );
 }
